@@ -42,3 +42,4 @@ Despues ejecutar el comando <code>react-native run-android</code>.
 ![alt text](https://github.com/LucasPifo/Silo-Bluetooth/blob/master/interfazSilo.jpg?raw=true)
 
 <b>Nota:</b> Dicho sistema se puede mejorar y desarrollar de otra forma, por ejemplo cambiar el motor a pasos por un motoreductor 0 tambien se puede modificar el tiempo de movimiento del contenedor en la app, dichas modificaciones conllevan modificaciones de software.
+En el actuador se utilizo una electrovalvula neumatica para la activacion de un piston para cuestiones prácticas, pero puede cambiarse por un servomotor o cualquier actuador.
